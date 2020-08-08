@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hi!</title>
+    <link>http://meghanagupta.github.io/</link>
+    <description>Recent content on Hi!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Aug 2020 12:04:06 -0500</lastBuildDate>
+    
+	<atom:link href="http://meghanagupta.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://meghanagupta.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://meghanagupta.github.io/about/</guid>
+      <description>I am a graduate student at the University of Utah, where I&amp;rsquo;m working under the guidance of Prof. Ryan Stutsman as a part of the Scalable Computer Systems Lab. This past summer, I interned at Microsoft in the Azure Resource Manager Extensibility team, where I worked on designing and developing a critical internal service for the Azure Arc for Kubernetes project. Prior to that, I worked at AWS India and TiVo India as a software developer for 2 years.</description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>http://meghanagupta.github.io/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://meghanagupta.github.io/resume/</guid>
+      <description>You can find a downloadable copy of my CV here.</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://meghanagupta.github.io/post/hello-world/</link>
+      <pubDate>Thu, 06 Aug 2020 12:04:06 -0500</pubDate>
+      
+      <guid>http://meghanagupta.github.io/post/hello-world/</guid>
+      <description>My first (and hopefully, not my only) blog post.</description>
+    </item>
+    
+  </channel>
+</rss>
